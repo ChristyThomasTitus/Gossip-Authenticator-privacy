@@ -1,0 +1,12 @@
+{
+  "name": "The Gossip Authenticator",
+  "short_name": "Gossip",
+  "start_url": "/Gossip-Authenticator-privacy/app/",
+  "scope": "/Gossip-Authenticator-privacy/app/",
+  "display": "standalone",
+  "background_color": "#0f0b14",
+  "theme_color": "#0f0b14",
+  "icons": [
+    { "src": "/Gossip-Authenticator-privacy/app/icon-512.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
